@@ -1,0 +1,16 @@
+{
+  "name": "create-my-electron-app",
+  "version": "1.0.1",
+  "main": "index.js",
+  "bin": {
+    "create-my-electron-app": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "boilerplate", "electron", "template"],
+  "author": "atiliodev",
+  "license": "MIT",
+  "description": "CLI para criar projetos baseados no meu boilerplate Electron",
+  "preferGlobal": true
+}
